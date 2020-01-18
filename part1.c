@@ -1,6 +1,6 @@
 //
 //assignment2 part1
-//Zhiqi Bei (#250916374)
+//Zhiqi Bei
 //zbei@uwo.ca
 
 #include <stdio.h>
