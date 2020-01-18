@@ -1,6 +1,6 @@
 //
 //assignment2_part2
-//Zhiqi Bei (#250916374)
+//Zhiqi Bei 
 //zbei@uwo.ca
 //
 
